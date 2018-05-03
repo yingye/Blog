@@ -6,6 +6,10 @@
 
 * [从 == 和 === 入手，聊聊隐式类型转换](https://github.com/yingye/Blog/issues/1)
 
+### 微信小程序
+
+* [微信小程序中生成二维码工具：weapp.qrcode.js](https://github.com/yingye/Blog/issues/2)
+
 ## Tips
 
 * 正文见[Issue](https://github.com/yingye/Blog/issues)
