@@ -8,6 +8,7 @@
 
 ### 微信小程序
 
+* [微信小程序集成 Jenkins](https://github.com/yingye/Blog/issues/8)
 * [微信小程序中生成二维码工具：weapp.qrcode.js](https://github.com/yingye/Blog/issues/2)
 * [深入wepy源码：wpy文件编译过程](https://github.com/yingye/Blog/issues/3)
 * [深入wepy源码：wepy运行原理分析](https://github.com/yingye/Blog/issues/4)
